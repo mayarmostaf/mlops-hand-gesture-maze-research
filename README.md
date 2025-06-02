@@ -34,15 +34,15 @@ All training runs are tracked with:
 ### 📌 Example MLflow UI Screenshots
 
 #### ✅ KNN Runs
-![KNN](https://github.com/user-attachments/assets/8f71ebdb-626d-4486-a9d2-76a2c6eec01f)
+![KNN](https://github.com/user-attachments/assets/1e04d7ca-6cc6-4673-bc8a-ae333dd4aa3a)
 
 
 #### ✅ SVC Runs
-![SVC](https://github.com/user-attachments/assets/392fd097-0c27-40fc-b4fe-c0460aba3ba6)
+![SVC](https://github.com/user-attachments/assets/0fd7a23b-b4a0-4014-aa26-e6193610da87)
 
 
 #### ✅ XGBoost Runs
-![XGBoost](https://github.com/user-attachments/assets/1cb53752-1590-4866-bb08-5c9d1a2e57b0)
+![XGBoost](https://github.com/user-attachments/assets/ef92456c-5dd2-40df-bcec-0cb5d54dc828)
 
 
 ---
